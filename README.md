@@ -6,7 +6,7 @@ Proyecto desarrollado como desafío del Bootcamp Frontend Developer de Talento D
 
 ## Vista previa
 
-[Ver en GitHub Pages](https://vnasp.github.io/chat-vue2-frontend-user/)
+[Ver en GitHub Pages](https://vnasp.github.io/bootcamp-vue2-chat/)
 
 ## Funcionalidades
 

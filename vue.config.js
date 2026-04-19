@@ -1,5 +1,5 @@
-const { defineConfig } = require('@vue/cli-service')
+const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-  publicPath: "/chat-vue2-frontend-user/",
-  transpileDependencies: true
-})
+  publicPath: "/bootcamp-vue2-chat/",
+  transpileDependencies: true,
+});
